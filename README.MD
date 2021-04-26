@@ -8,7 +8,7 @@
 # RUN
 
     venv\Scripts\activate
-    flask run
+    flask run --host=0.0.0.0 --port=80
 
 # SETUP
 
